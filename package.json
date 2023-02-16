@@ -1,0 +1,25 @@
+{
+  "name": "clase_26",
+  "version": "1.0.0",
+  "description": "Ejercicio de la clase 26",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coderhouse-Comision-38150/Clase_26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Coderhouse-Comision-38150/Clase_26/issues"
+  },
+  "homepage": "https://github.com/Coderhouse-Comision-38150/Clase_26#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
